@@ -335,7 +335,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mixer: {fileID: 24100000, guid: 5bdca839b5e4b144893f4fd4cdea4853, type: 2}
-  LoadingText: {fileID: 786250176}
+  LoadingText: {fileID: 1429208736}
   Loading: {fileID: 1164153297}
 --- !u!4 &37237272
 Transform:
