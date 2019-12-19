@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - "\u9677\u9631"
+  - "\u916A\u68A8"
+  - FOOD
   layers:
   - Default
   - TransparentFX
